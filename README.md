@@ -21,9 +21,9 @@ I am a BCA student and aspiring Data Analyst with an interest in data analysis, 
 
 ### 📊 Projects
 
-- **E-Commerce Data Analysis** — SQL
-- **Superstore Sales Dashboard** — Microsoft Excel
-- **Creation Dashboard** — Tableau
+- E-Commerce Data Analysis — SQL
+- Superstore Sales Dashboard — Microsoft Excel
+- Creation Dashboard — Tableau
 
 ### 🌱 Currently Learning
 
@@ -42,3 +42,4 @@ Looking for opportunities to learn, grow, and build my career in Data Analytics.
 ---
 
 ⭐ Thanks for visiting my profile!
+
