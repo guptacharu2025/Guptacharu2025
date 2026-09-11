@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **guptacharu2025/Guptacharu2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi, I'm Charu Gupta 👋
@@ -39,7 +38,6 @@ Looking for opportunities to learn, grow, and build my career in Data Analytics.
 
 - [LinkedIn](https://www.linkedin.com/in/charu-gupta-3bb1143bb)
 
----
 
 ⭐ Thanks for visiting my profile!
 
